@@ -18,5 +18,4 @@
 My stack
 - Back (Java): [Java](https://www.java.com/ru/) / [Spring Boot](https://spring.io/projects/spring-boot) / [Maven](https://maven.apache.org/)
 - DataBases: [MySQL](https://www.mysql.com/)
-- Testing: [Jest](https://jestjs.io/) / [Enzyme](https://enzymejs.github.io/enzyme/)
 - Front-end (Vue): [Vue](https://vuejs.org/)
