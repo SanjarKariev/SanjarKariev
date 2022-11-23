@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Sanjar Davronovich
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
-<!--
-**SanjarKariev/SanjarKariev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:kariev.s69@gmail.com">Gmail</a> -
+  <a href="https://t.me/K_Sanjar_D">Telegram</a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">I am a Beck-end developer, doing back-end on Java!</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Connect with me on [**Gmail**](mailto:kariev.s69@gmail.com) or [**Telegram**](https://t.me/K_Sanjar_D)
+- 📫 Ask me anything on my [**issues page**](https://github.com/SanjarKariev/SanjarKariev/issues)
+- 🌱 I'm improving in the back-end (Java)
+
+<br />
+
+My stack
+- Back (Java): [Java](https://www.java.com/ru/) / [Spring Boot](https://spring.io/projects/spring-boot) / [Maven](https://maven.apache.org/)
+- DataBases: [MySQL](https://www.mysql.com/)
+- Testing: [Jest](https://jestjs.io/) / [Enzyme](https://enzymejs.github.io/enzyme/)
+- Front-end (Vue): [Vue](https://vuejs.org/)
