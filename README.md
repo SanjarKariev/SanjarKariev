@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:kariev.s69@gmail.com">Gmail</a> -
-  <a href="https://t.me/K_Sanjar_D">Telegram</a>
+  <a href="https://t.me/time_toncoin">Telegram</a>
 </p>
 
 <h3 align="left">I am a Beck-end developer, doing back-end on Java!</h3>
